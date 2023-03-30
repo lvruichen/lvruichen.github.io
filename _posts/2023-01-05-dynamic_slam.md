@@ -1,8 +1,8 @@
 ---
-title: Modern Cmake的一些使用记录
-tags: cmake
+title: 动态场景下的SLAM一些问题和解决方案
+tags: SLAM
 ---
 
-如何在管理项目时更多的使用modern cmake，更具有规范性
+针对城市环境下的SLAM如何剔除动态物体
 
 <!--more-->
